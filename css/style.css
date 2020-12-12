@@ -90,10 +90,10 @@ header nav .branding {
     padding: 3rem 0;
 }
 
-/* 
+
 .hero .left img {
-    width: 400px;
-} */
+    width: 300px;
+}
 
 .hero .right {
     color: var(--pure);
@@ -102,7 +102,7 @@ header nav .branding {
 .hero .right h6 {
     font-size: 1.6rem;
     color: var(--primary);
-    margin-top: 2rem;
+    /* margin-top: 2rem; */
     margin-bottom: 0.5rem;
 }
 
@@ -663,7 +663,8 @@ footer .copyright {
     }
 
     .hero .left img {
-        width: 260px;
+        width: 250px;
+        margin-bottom: 3rem;
     }
 
     .hero .right h1 {
